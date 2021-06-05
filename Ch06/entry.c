@@ -17,4 +17,6 @@ int main(void)
     printf("Congratulations! You are cured!\n");
     
     return 0;
+    
+    
 }
